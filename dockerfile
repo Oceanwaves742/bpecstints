@@ -55,4 +55,4 @@ ENV STREAMLIT_SERVER_PORT 8080
 ENV STREAMLIT_SERVER_HEADLESS true
 
 # Command to run your app (replace your_script.py with your actual filename)
-CMD ["streamlit", "run", "your_script.py", "--server.port=8080", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "app19.py", "--server.port=8080", "--server.address=0.0.0.0"]
