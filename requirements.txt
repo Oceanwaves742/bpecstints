@@ -3,4 +3,3 @@ selenium
 pandas
 matplotlib
 streamlit-autorefresh
-tempfile
