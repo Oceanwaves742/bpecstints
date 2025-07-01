@@ -1,5 +1,5 @@
-streamlit
-selenium
-pandas
-matplotlib
-streamlit-autorefresh
+streamlit==1.24.1
+selenium==4.10.0
+pandas==2.0.3
+matplotlib==3.8.0
+streamlit-autorefresh==0.2.4
