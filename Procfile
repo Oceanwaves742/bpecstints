@@ -1,1 +1,1 @@
-web: streamlit run app20.py --server.port=$PORT --server.address=0.0.0.0
+web: streamlit run app21.py --server.port=$PORT --server.address=0.0.0.0
